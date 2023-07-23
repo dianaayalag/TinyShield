@@ -14,4 +14,4 @@ When someone takes screenshots, everything inside of the TinyShieldView will be 
 
 ## Acknowledges
 
-If you like this tiny library, you can [buy me a coffee] (https://paypal.me/dianaayalag) :)
+If you like this tiny library, you can [buy me a coffee](https://paypal.me/dianaayalag) :)
