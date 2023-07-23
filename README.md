@@ -3,6 +3,10 @@ Prevent taking screenshots on iOS
 
 ## Usage
 
+First, add the project as a package with <strong>SPM<strong>(Swift package Manager):
+
+Click on <strong>add packages<strong> and paste the repo's url (https://github.com/dianaayalag/TinyShield) on the search field and click on <strong>Add Package<strong> :)
+
 Just create a view with
 
 ```
