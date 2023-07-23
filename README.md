@@ -5,8 +5,11 @@ Prevent taking screenshots on iOS
 
 Just create a view with
 
-`let tinyShieldView = TinyShieldView()
-self.view.addSubview(tinyShieldView)`
+```
+let tinyShieldView = TinyShieldView()
+self.view.addSubview(tinyShieldView)
+```
+
     
 Since it inherits from UIView, you can easily add constraints or customize the view as you like.
 
